@@ -1,5 +1,6 @@
-# Quentin Courtade
-
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=2000&color=BFD8BD&vCenter=true&width=750&lines=Hi,+I'm+Quentin.;Building+systems+that+think." alt="Typing text" />
+</div>
 > Computer Science student · Systems & Backend · Freelance Video Editor
 
 L3 CS at the University of Bordeaux — building things in C, JavaScript, and lower-level systems.
