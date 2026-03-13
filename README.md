@@ -9,22 +9,10 @@ I want the logic to hold and the code to be clean. Not done until both are right
 
 **$\color{#DE3E4A}{\text{Current Focus}}$** • AI agents, cybersecurity, and low-level systems in C
 
-**$\color{#DE3E4A}{\text{Also}}$** • Freelance video editor
-
 [quentincourtade33@gmail.com](mailto:quentincourtade33@gmail.com) · [Portfolio (Soon)](#)
 
----
+
 </div>
-
-
-## About
-
-- L3 Computer Science — University of Bordeaux
-- Focus: backend engineering, systems programming, web development
-- Currently building projects in C, JavaScript, HTML/CSS
-- Freelance video editor on the side, with an eye for clean output and tight pipelines
-
----
 
 ## Tech stack
 
@@ -34,39 +22,26 @@ I want the logic to hold and the code to be clean. Not done until both are right
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
 **Focus areas:** systems programming · backend · web · algorithms
 
----
+
 
 ## Featured projects
 
-### [Mini Shell — C](https://github.com/quentiinct/PROJECT)
-Soon
-`...`
----
+### $\color{#DE3E4A}{\text{Image Search}}$ 
+Client-server app for image similarity search using visual descriptors (RGB, HSV, gradient histograms).
+Java backend with Spring Boot and PostgreSQL, Vue.js frontend with full CRUD and keyword tagging.
+`Java` `Spring Boot` `Vue.js` `TypeScript` `PostgreSQL` `BoofCV`
 
-## Current focus
-
-- Strengthening systems programming fundamentals in C
-- Building a clean, documented public portfolio
-- Exploring backend architecture and scalable web patterns
-
----
+### $\color{#DE3E4A}{\text{Interpreter — OCaml}}$
+Interpreter for a course language running on an abstract machine.
+Covers expression evaluation, control flow, arrays, and function calls with proper variable scoping.
+`OCaml` `Compilation` `Abstract machine` `Interpreters`
 
 ## Stats
 
 <a href="https://github.com/quentiinct">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=quentiinct&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quentiinct&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=quentiinct&show_icons=true&theme=github_dark&hide_border=true&count_private=true&title_color=DE3E4A&icon_color=DE3E4A" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quentiinct&layout=compact&theme=github_dark&hide_border=true&langs_count=6&title_color=DE3E4A" />
 </a>
-
----
-
-## Contact
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/quentin-courtade-627b3a3a5)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=vercel&logoColor=white)](https://quentincourtade.com)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:quentincourtade33@gmail.com)
