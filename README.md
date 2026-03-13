@@ -1,12 +1,21 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=2000&color=DE3E4A&vCenter=true&width=750&lines=Hi,+I'm+Quentin.;Building+systems+that+think." alt="Typing text" />
-</div>
-> Computer Science student · Systems & Backend · Freelance Video Editor
 
-L3 CS at the University of Bordeaux — building things in C, JavaScript, and lower-level systems.
-Open to internships, technical collaborations, and projects worth building.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=2000&color=DE3E4A&vCenter=true&center=true&width=750&lines=Hi,+I'm+Quentin.;Building+systems+that+think." alt="Typing text" />
+
+**$\color{#DE3E4A}{\text{3rd-year Computer Science}}$** student at the [University of Bordeaux](https://www.u-bordeaux.fr)
+
+I build tools, agents, and systems • focused on AI and cybersecurity.
+I want the logic to hold and the code to be clean. Not done until both are right.
+
+**$\color{#DE3E4A}{\text{Current Focus}}$** • AI agents, cybersecurity, and low-level systems in C
+
+**$\color{#DE3E4A}{\text{Also}}$** • Freelance video editor
+
+[quentincourtade33@gmail.com](mailto:quentincourtade33@gmail.com) · [Portfolio (Soon)](#)
 
 ---
+</div>
+
 
 ## About
 
