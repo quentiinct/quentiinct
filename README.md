@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=2000&color=DE3E4A&vCenter=true&center=true&width=750&lines=Hi,+I'm+Quentin.;Building+systems+that+think." alt="Typing text" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=2000&color=DE3E4A&vCenter=true&center=true&width=750&lines=Hi,+I'm+Quentin.;Always+looking+for+the+way+in." alt="Typing text" />
 
 **$\color{#DE3E4A}{\text{3rd-year Computer Science}}$** student at the [University of Bordeaux](https://www.u-bordeaux.fr)
 
-I build tools, agents, and systems • focused on AI and cybersecurity.
+I build tools and systems • focused on cybersecurity and low-level programming.
 I want the logic to hold and the code to be clean. Not done until both are right.
 
-**$\color{#DE3E4A}{\text{Current Focus}}$** • AI agents, cybersecurity, and low-level systems in C
+**$\color{#DE3E4A}{\text{Current Focus}}$** • Cryptography, cybersecurity, and low-level systems in C
 
-[quentincourtade33@gmail.com](mailto:quentincourtade33@gmail.com) · [Portfolio (Soon)](#)
+[quentincourtade33@gmail.com](mailto:quentincourtade33@gmail.com) · [Portfolio](https://quentincourtade.com)
 
 
 </div>
@@ -23,7 +23,7 @@ I want the logic to hold and the code to be clean. Not done until both are right
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-**Focus areas:** systems programming · backend · web · algorithms
+**Focus areas:** cryptography · systems programming · network security · low-level C
 
 
 
